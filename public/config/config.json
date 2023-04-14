@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2d7d3B1f9569037635eDfbE04C640BB4556A4EA6",
+  "SCAN_LINK": "https://www.teloscan.io/address/0x2d7d3B1f9569037635eDfbE04C640BB4556A4EA6",
+  "NETWORK": {
+    "NAME": "Telos",
+    "SYMBOL": "TLOS",
+    "ID": 40
+  },
+  "NFT_NAME": "Telos V2 Punks",
+  "SYMBOL": "TP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
