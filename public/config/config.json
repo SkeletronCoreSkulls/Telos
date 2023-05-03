@@ -12,7 +12,7 @@
   "WEI_COST": 3000000000000000000,
   "DISPLAY_COST": 3,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "the upcoming marketplace soon",
+  "MARKETPLACE": "https://minted.vodka/market and the upcoming marketplace soon",
   "MARKETPLACE_LINK": "",
   "SHOW_BACKGROUND": true
 }
